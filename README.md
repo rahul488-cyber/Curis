@@ -61,8 +61,3 @@ Use the sidebar to switch between the Injury Report, Drug Report, and Final Repo
 ## 🤝 Contributing
 
 Feel free to open issues or submit pull requests for bug fixes, new features, or enhancements.
-
-## 📄 License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-EOF
