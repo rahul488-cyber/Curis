@@ -1,0 +1,3 @@
+target_position = [-7.12; 16.4; 3];
+joint_angles = IK1(target_position);
+    
